@@ -13,7 +13,7 @@ This project performs face swapping between two images using OpenCV and dlib. Th
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/face-swapping-ai.git
+    git clone https://github.com/aayush-ojha/face-swapping-ai.git
     cd face-swapping-ai
     ```
 
